@@ -2,7 +2,7 @@ Hi
 
 I'm Rebecca Falade, an aspiring data analyst
 
-## EMPLOYEES-PERFORMANCE-
+## EMPLOYEES PERFORMANCE
 
 ### Table of Contents 
 

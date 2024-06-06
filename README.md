@@ -16,7 +16,7 @@
 
 This project aims to provide insights into the employee's productivity/performance of a leading technology firm. By analyzing various aspects of this performance/productivity data, I seek to understand the key drivers leading to employees performance.
 
-To visualise the dashboard on my LinkedIn account, 
+Visualise the dashboard on my LinkedIn post, 
 [Click here](https://www.linkedin.com/in/rebecca-oluwatunmise-falade-1534421b1)
 
 ### Data Source 
